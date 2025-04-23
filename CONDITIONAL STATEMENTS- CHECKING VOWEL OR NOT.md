@@ -29,6 +29,7 @@ else:
 ```
 
 ## OUTPUT
+https://github.com/Nidhish055/Module-1/blob/main/conditional%20stmts.png 
 
 ## RESULT
 
