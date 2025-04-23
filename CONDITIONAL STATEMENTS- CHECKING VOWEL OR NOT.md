@@ -1,7 +1,7 @@
-## Experiment No: 4 – Conditional Statements- Checking Vowel or not
+## Experiment No: 4 – Conditional Statements- Divisible by 9 or not
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given the number is divisible by 9 or not if..else statement
 ## ALGORITHM  
 1. Begin the program.  
 2. Take a character input from the user
@@ -17,15 +17,19 @@ To Write a Python program to check whether the given character is a vowel or not
 # Name-
 # Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
+# Read the number from the user
+number = int(input())
 
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+# Check if the number is divisible by 9 using modulo operator
+if number % 9 == 0:
+    print(number, "is divisible by 9")
 else:
-    print("The given character is NOT a vowel")
+    print(number, "is NOT divisible by 9")
+
 ```
 
 ## OUTPUT
 
 ## RESULT
+
+Thus the python program to check whether the given the number is divisible by 9 or not if..else statement was implemented sucessfully
