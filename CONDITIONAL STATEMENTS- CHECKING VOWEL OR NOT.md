@@ -2,25 +2,25 @@
 
 ## AIM  
 To Write a Python program to check whether the given the number is divisible by 9 or not if..else statement
+
 ## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+
+1. Start the program.
+2. Accept a number from the user
+3. Use the modulus operator % to check if the number is divisible by 9.
+4. If number % 9 == 0, then print that the number is divisible by 9.
+5. Else, print that the number is not divisible by 9.
+6. End the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
 
-# Read the number from the user
+```python
+
+# Reg.No-212223050032
+# Name-Nidhish B
+
 number = int(input())
 
-# Check if the number is divisible by 9 using modulo operator
 if number % 9 == 0:
     print(number, "is divisible by 9")
 else:
@@ -29,7 +29,9 @@ else:
 ```
 
 ## OUTPUT
-https://github.com/Nidhish055/Module-1/blob/main/conditional%20stmts.png 
+
+![image](https://github.com/user-attachments/assets/2c3a7a37-9315-488f-ab15-1edb4f39bb5a)
+
 
 ## RESULT
 
