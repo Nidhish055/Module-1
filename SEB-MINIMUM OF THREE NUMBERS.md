@@ -1,4 +1,4 @@
-# Experiment No: 5 –Minimum of Three Numbers
+# Experiment No: 5 – Smallest of Three Numbers
 
 ## AIM  
 To write a python program to find the smallest among three Integer Numbers
