@@ -1,29 +1,32 @@
-# Experiment No: 2- Data Types – Printing Integer Literals
+# Experiment No: 2- Data Types – Printing Character Literals
 
-## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+## AIM 
+To write a Python program to print character literals such as 'T' and 'a'.
 
-## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+## ALGORITHM 
+
+1)Begin the program.
+2)Assign character literals (like 'T', 'a') to variables or directly print them using the print() function.
+3)Use the print() function to display the characters.
+4)Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+## Reg.No-212223050032
+## Name-Nidhish B
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+v ='T'
+ 
+w ='a'
+ 
+print(v)
+print(w)
 
 ```
 ## OUTPUT
 
+![Screenshot 2025-04-24 214448](https://github.com/user-attachments/assets/98c821c6-5fe6-423b-8712-9ee911e1759a)
+
 ## RESULT
+
+Thus, the Python program to print character literals like 'T' and 'a' was successfully executed.
